@@ -1,5 +1,5 @@
 ---
-name: Support
+name: ❓ | Support
 about: Select this if you need help.
 title: SUPPORT
 labels: ''
@@ -15,3 +15,4 @@ Can you reproduce the error (true/false):
 Do you have a screenshot?
 Describe the problem:
 Any other thing?
+Check #1 for installation support.
